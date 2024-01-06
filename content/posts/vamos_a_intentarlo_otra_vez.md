@@ -3,8 +3,8 @@ title = 'Vamos a intentarlo otra vez'
 date = 2024-01-06T16:32:19+01:00
 +++
 
-![Imagen Outer Wilds](<img 
-src="https://drive.google.com/uc?id=1Q4p4Oe1afYX7Da2-EvBWxzE7grCOia0F">)
+<img 
+src="https://drive.google.com/uc?id=1Q4p4Oe1afYX7Da2-EvBWxzE7grCOia0F">
 
 Año nuevo, propósitos nuevos; o eso es lo que se suele decir cada primer día de cada año. En general odio los propósitos de año nuevo, porque estoy en contra de la idea de que las personas deban de estar en constante evolución y mejora como un fin último a alcanzar. A veces simplemente está bien quedarte como estás y estar en paz, pero en mi caso, con el tiempo, me he fijado en que tengo que darme a mi mismo pequeños empujones para simplemente hacer las cosas que me gusta hacer.
 
