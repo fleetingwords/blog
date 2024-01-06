@@ -2,3 +2,6 @@ baseURL = ''
 languageCode = 'en-us'
 title = 'Fleeting Words'
 theme = 'tailwind'
+
+[params]
+subtitle = ''

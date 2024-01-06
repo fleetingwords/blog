@@ -4,8 +4,11 @@
   {{ block "title" . }}
     {{- $title := "" -}}
     {{- $siteTitle := $.Site.Title -}}
+    {{- $subtitle := $.Site.Params.Subtitle -}}
     {{- $mainTitle := $siteTitle -}}
-    
+    {{- if $subtitle -}}
+      {{- $mainTitle = printf "%s - %s" $siteTitle $subtitle -}}
+    {{- end -}}
 
     {{- if .IsHome -}}
       {{- $title = $mainTitle -}}
